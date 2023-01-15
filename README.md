@@ -11,3 +11,6 @@ The circuit board is discrete input (not a row column matrix) arduino pro micro 
 ![P1060782](https://user-images.githubusercontent.com/68818321/212553425-57b1f0da-b6d6-4d1e-b359-855fa12eb519.JPG)
 ![enclosure size](https://user-images.githubusercontent.com/68818321/212553496-cca786fe-ec17-40b7-84b1-74a6579aea18.PNG)
 ![PCB view](https://user-images.githubusercontent.com/68818321/212560337-54bcd145-12ff-4df2-b9a5-0ececc3d845a.PNG)
+
+If using the WASDjoy modular PCBs see repository for laser cutable templates here: https://github.com/retrobuiltRyan/WASDjoy
+![P1060714](https://user-images.githubusercontent.com/68818321/212561554-c8b53924-a5d4-4e13-a642-809e52fbd1a6.JPG)
