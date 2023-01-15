@@ -10,3 +10,4 @@ The circuit board is discrete input (not a row column matrix) arduino pro micro 
 ![P1060783](https://user-images.githubusercontent.com/68818321/212553421-9607d3d5-ef52-45b9-9128-d86a8e6d689d.JPG)
 ![P1060782](https://user-images.githubusercontent.com/68818321/212553425-57b1f0da-b6d6-4d1e-b359-855fa12eb519.JPG)
 ![enclosure size](https://user-images.githubusercontent.com/68818321/212553496-cca786fe-ec17-40b7-84b1-74a6579aea18.PNG)
+![PCB view](https://user-images.githubusercontent.com/68818321/212560337-54bcd145-12ff-4df2-b9a5-0ececc3d845a.PNG)
