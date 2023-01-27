@@ -21,9 +21,9 @@ CAD files have two main variatations, the Straight Layout or the Angled Offset l
 ![PCB view](https://user-images.githubusercontent.com/68818321/212560337-54bcd145-12ff-4df2-b9a5-0ececc3d845a.PNG)
 
 Parts you need:
-
-1206 220-330ohm resistor for the Addressable LED data line.
-Cherry Mx 5pin (https://www.digikey.com/short/03p19mw3) or compatible key switch. RGB compatible (have a clearish body) are recommended. 
+Addressable RGB LEDs SK6812 MINI-E RGB (https://www.aliexpress.us/item/2255800289371100.html?spm=a2g0s.12269583.0.0.572c1e9ceHD99V&gatewayAdapt=glo2usa4itemAdapt&_randl_shipto=US)
+1206 220-330ohm resistor RMCF1206JT330RCT-ND (https://www.digikey.com/short/mnfjbmt8) for the Addressable LED data line.
+Cherry Mx 5pin CH197-ND (https://www.digikey.com/short/03p19mw3) or compatible key switch. RGB compatible (have a clearish body) are recommended. 
 
 Extra Notes:
 Use the enclosure files with your own ideas. This arcade controller was  made from a salvaged 3rd-party universal DDR circuit board. 
